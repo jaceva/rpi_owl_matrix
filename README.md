@@ -1,0 +1,1 @@
+Python app run by single Raspberry Pi to send SPI data to 6 controllers for OWL Matrix
